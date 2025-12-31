@@ -22,15 +22,15 @@ As a result, influence increases **reach**, not **fidelity**.
 ## 2. Early Benefits, Delayed Costs
 A recurring pattern in high-influence ideas is temporal asymmetry:
 
-- **Early phase:**  
-  - clarity  
-  - problem-solving power  
-  - visible gains  
+- **Early phase**
+  - clarity
+  - problem-solving power
+  - visible gains
 
-- **Later phase:**  
-  - misapplication  
-  - rigidity  
-  - systemic side effects  
+- **Later phase**
+  - misapplication
+  - rigidity
+  - systemic side effects
 
 The early benefits are usually credited to the idea itself.  
 The later harms are typically attributed to misuse, bad actors, or external conditions.
@@ -58,12 +58,12 @@ Once an idea becomes influential, it undergoes qualitative change:
 - from tool to justification
 - from context-dependent insight to general principle
 
-These transformations are not neutral. They redistribute:
+These transformations redistribute:
 - authority (who decides)
 - responsibility (who is blamed)
 - error (where failures are absorbed)
 
-The idea no longer functions only as content, but as **infrastructure**.
+At this stage, the idea no longer functions only as content, but as **infrastructure**.
 
 ---
 
@@ -71,7 +71,7 @@ The idea no longer functions only as content, but as **infrastructure**.
 A critical feature of high-influence ideas is that negative outcomes often fail to return to the idea’s point of origin.
 
 Common mechanisms include:
-- domain separation (the harm occurs elsewhere)
+- domain separation (harms occur elsewhere)
 - symbolic elevation (the idea becomes non-revisable)
 - interpretive buffering (failures are reframed as implementation issues)
 
@@ -92,10 +92,75 @@ These factors determine whether influence remains generative or becomes extracti
 
 ---
 
-## Conclusion
-High-influence ideas should not be assessed as inherently beneficial or harmful. Their impact emerges from **how influence restructures interpretation, application, and responsibility**.
+## 7. Illustrative Cases of Dual Outcomes
+The dynamics described above can be observed across multiple high-influence intellectual frameworks whose historical trajectories include both genuine progress and substantial harm.
 
-Understanding this dual-outcome dynamic is a prerequisite for responsible engagement with ideas that are likely to travel far beyond their point of origin.
+The following cases are presented not for evaluation of correctness or legitimacy, but to illustrate **recurring structural patterns** in how influence reshapes ideas over time.
+
+---
+
+### 7.1 Marxism
+Marxism initially functioned as a powerful analytical framework for identifying structural exploitation, class relations, and economic asymmetries that were previously treated as natural or inevitable. In this capacity, it contributed to political consciousness, labor organization, and critical economic analysis.
+
+As its influence expanded, Marxism underwent several transformations:
+- from analytical critique to governing doctrine
+- from context-sensitive theory to universal explanatory frame
+- from diagnostic tool to source of political legitimacy
+
+In many downstream implementations, these shifts supported:
+- suppression of local variation
+- resistance to internal correction
+- justification of coercive authority
+
+The harms associated with later Marxist systems are often attributed to deviation from “true” Marxism. This framing obscures how **scale, canonization, and authority transfer** structurally altered the function of the original framework.
+
+---
+
+### 7.2 Psychoanalysis
+Psychoanalysis introduced foundational insights into unconscious processes, symbolic meaning, and non-rational determinants of behavior. These contributions reshaped psychotherapy, cultural interpretation, and theories of subjectivity.
+
+As psychoanalytic concepts propagated beyond clinical settings, they were increasingly:
+- simplified for broader accessibility
+- detached from therapeutic constraints
+- generalized into default interpretive explanations
+
+This expansion produced both:
+- richer conceptual tools for understanding inner life
+- interpretive overreach, where explanation displaced agency and interpretation replaced verification
+
+In some contexts, psychoanalytic frameworks became resistant to falsification or external feedback, functioning less as therapeutic instruments and more as **totalizing interpretive systems**.
+
+Negative outcomes are frequently framed as misuse, rather than as **predictable effects of symbolic authority and cross-domain propagation**.
+
+---
+
+### 7.3 Statistical Risk Models
+Statistical risk models were developed to support decision-making under uncertainty, enabling advances in insurance, public health, safety engineering, and large-scale coordination. Their strength lies in compressing complex population-level patterns into actionable metrics.
+
+As these models became influential, several structural shifts occurred:
+- probabilistic assessments acquired prescriptive authority
+- group-level abstractions were applied to individual cases
+- risk scores were treated as stable attributes rather than contingent estimates
+
+These transformations enabled efficiency and scalability, while also producing downstream effects such as:
+- identity compression
+- diminished individual agency
+- governance by proxy metrics
+
+Notably, these harms do not arise from model failure, but from **successful deployment at scale**, where abstraction and authority outpace contextual judgment and feedback.
+
+---
+
+## 8. Structural Consistency Across Cases
+Despite their differences in domain and origin, all three cases exhibit the same structural sequence:
+
+1. Initial analytical or practical power  
+2. Cross-domain propagation  
+3. Authority acquisition  
+4. Feedback attenuation  
+5. Stabilization of both progress and harm  
+
+This consistency suggests that dual outcomes are not anomalous, but **systemic features of high-influence ideas** once they exceed their original jurisdiction.
 
 ---
 
